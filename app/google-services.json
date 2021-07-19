@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861278466430",
+    "project_id": "notes-app-8b741",
+    "storage_bucket": "notes-app-8b741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861278466430:android:54e523946739603746832f",
+        "android_client_info": {
+          "package_name": "com.gobinathal.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861278466430-2gje5tsqr4mlpdsk8r6ah714i71odt6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYvwRYLbLkj2j-ezR1YmMLzEChuoMMur0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861278466430-2gje5tsqr4mlpdsk8r6ah714i71odt6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
